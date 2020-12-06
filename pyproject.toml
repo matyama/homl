@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "homl"
+version = "0.1.0"
+description = "Examples and excercises from Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow"
+authors = ["Martin Matyasek <martin.matyasek@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "*"
+jupyterlab = "*"
+keras = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+tensorflow = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0a5"]
+build-backend = "poetry.core.masonry.api"
