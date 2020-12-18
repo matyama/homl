@@ -134,3 +134,6 @@ poetry.lock
 # Datasets
 datasets/
 
+# Data
+data/
+
