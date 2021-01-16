@@ -140,3 +140,5 @@ data/
 # Images
 images/
 
+# Logs
+logs/
