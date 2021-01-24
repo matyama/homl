@@ -16,6 +16,7 @@ pandas = "*"
 pydot = "*"
 scikit-learn = "*"
 tensorflow = "*"
+tqdm = "*"
 xgboost = "*"
 
 [build-system]
