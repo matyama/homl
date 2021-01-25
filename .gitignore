@@ -142,3 +142,6 @@ images/
 
 # Logs
 logs/
+
+# Protobuf sources and targets
+proto/
