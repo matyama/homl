@@ -23,6 +23,9 @@ tensorflow-transform = "*"
 tqdm = "*"
 xgboost = "*"
 
+[tool.poetry.dev-dependencies]
+lckr-jupyterlab-variableinspector = "*"
+
 [build-system]
 requires = ["poetry-core>=1.0.0a5"]
 build-backend = "poetry.core.masonry.api"
