@@ -1,4 +1,11 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
-Examples and excercises from Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow
+Examples and excercises from *Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow*
 
-Note that this repository is a personal learning place and is not intended to replace the [official sources](https://github.com/ageron/handson-ml2).
+## Disclaimer
+This is a personal learning place that was created while reading the book. 
+All the examples and excercises were mostly taken from or re-created based on 
+the [official sources](https://github.com/ageron/handson-ml2) with additional 
+comments and notes.
+
+Therefore, this repository is not intended to replace the official repository 
+in any way and should be taken lightly.
