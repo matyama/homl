@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-gym = "*"
+gym = { version = "*", extras = ["atari"] }
 jupyter = "*"
 jupyterlab = "*"
 keras = "*"
@@ -23,6 +23,7 @@ tensorflow-gpu = "*"
 tensorflow-datasets = "*"
 tensorflow-hub = "*"
 tensorflow-transform = "*"
+tf-agents = "*"
 tqdm = "*"
 xgboost = "*"
 
