@@ -1,5 +1,5 @@
 # Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
-Examples and excercises from *Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow*
+Examples and exercises from *Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow*
 
 ## Disclaimer
 This is a personal learning place that was created while reading the book. 
